@@ -1,0 +1,11 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-css": "^3.1.2",
+    "gulp-sass": "^3.1.0"
+  }
+}

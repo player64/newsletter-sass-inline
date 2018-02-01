@@ -1,0 +1,10 @@
+@import "variables";
+body {
+    color: #000;
+    background-color: grey;
+    .container {
+        color: $blue; 
+        width: 650px;
+        margin: 0 auto;
+    }
+}  
