@@ -4,7 +4,7 @@ This template will help you develop a newsletter template it uses gulp to compil
 
 # Installation
 Clone the repository
-<code>git clone </code>
+<code>git clone https://github.com/player64/newsletter-sass-inline.git</code>
 
 Install node dependencies by 
 <code>yarn</code>
